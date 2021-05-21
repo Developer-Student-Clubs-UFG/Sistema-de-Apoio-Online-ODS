@@ -1,7 +1,8 @@
 # App Amigo - Sistema de apoio Online
 
-Esse é um aplicativo de apoio online  para benefi da saude menntal  do ser humano. ![WhatsApp Image 2021-05-20 at 21 59 09](https://user-images.githubusercontent.com/65856686/119071456-3b9df880-b9c0-11eb-90ba-675d39d815f3.jpeg)
+Esse é um aplicativo de apoio online  para benefi da saude menntal  do ser humano. 
 
+![WhatsApp Image 2021-05-20 at 21 53 40](https://user-images.githubusercontent.com/65856686/119073274-5756ce00-b9c3-11eb-9ea5-4d6d054b844a.jpeg)
  
 # Etapas concluidas:
 1° Ideação 
